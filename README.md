@@ -40,9 +40,9 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 - index.html (HTML: Estrutura do site)
 
-- estilo/style.css (CSS: Estilização)
+- style/style.css (CSS: Estilização)
 
-- midia (Pasta de imagens)
+- images (Pasta de imagens)
 
 
 ## Link do Site
