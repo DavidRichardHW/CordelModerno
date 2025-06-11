@@ -11,19 +11,17 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 - Uso de ID
 
-- Fontes locais personalizadas.
+- Fontes locais personalizadas
 
-- Criação de cabeçalhos e menus
+- Criação de cabeçalho
 
-- Aplicação de imagens e vídeos (internos e externos)
+- Aplicação de imagens de fundo em DIV
 
-- Uso da tag <picture> com <source>
+- Efeito paralax em imagens de fundo
 
 - Pseudo-classes CSS 
 
 - Links internos e externos
-
-- Listas ordenadas e não ordenadas
 
 - Variáveis CSS (:root)
 
@@ -31,7 +29,7 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 - Uso de favicon
 
-- Uso de tags semânticas: strong, abbr, header, main, article, section, aside, footer
+- Uso de tags semânticas: strong, header, main, footer
 
 
 ## Estrutura
