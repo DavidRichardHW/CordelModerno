@@ -9,7 +9,7 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 - Alinhamento de divs usando CSS
 
-- Uso de ID
+- Uso de id e class
 
 - Fontes locais personalizadas
 
