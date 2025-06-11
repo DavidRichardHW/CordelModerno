@@ -42,6 +42,8 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 - style/style.css (CSS: Estilização)
 
+- font (Pasta de fontes)
+
 - images (Pasta de imagens)
 
 
