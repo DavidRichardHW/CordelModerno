@@ -47,4 +47,4 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 ## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [ProjetoAndroid](https://davidrichardhw.github.io/CordelModerno/) < Fique a vontade para deixar dicas e opiniões. 😁
+Você pode acessar meu site no GitHub Pages clicando aqui > [CordelModerno](https://davidrichardhw.github.io/CordelModerno/) < Fique a vontade para deixar dicas e opiniões. 😁
