@@ -1,4 +1,4 @@
-# Site [ProjetoCordel](https://davidrichardhw.github.io/ProjetoCordel/)
+# Site [CordelModerno](https://davidrichardhw.github.io/CordelModerno/)
 
 Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. O objetivo principal foi colocar em prática alguns conceitos de desenvolvimento web aprendidos até o momento (07/06/2025).
 
@@ -47,4 +47,4 @@ Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/d
 
 ## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [ProjetoAndroid](https://davidrichardhw.github.io/ProjetoCordel/) < Fique a vontade para deixar dicas e opiniões. 😁
+Você pode acessar meu site no GitHub Pages clicando aqui > [ProjetoAndroid](https://davidrichardhw.github.io/CordelModerno/) < Fique a vontade para deixar dicas e opiniões. 😁
