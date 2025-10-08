@@ -1,50 +1,35 @@
-# Site [CordelModerno](https://davidrichardhw.github.io/CordelModerno/)
+# Site [CordelModerno](https://davidrichardhw.github.io/CordelModerno/):
 
-Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. O objetivo principal foi colocar em prática alguns conceitos de desenvolvimento web aprendidos.
+Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. 
+
+Um site simples, criado como uma exposição para o poema Cordel Moderno de Milton Duarte. 
 
 
-## Tecnologias & Conceitos Aplicados
 
-- Estruturação com HTML5
+## Tecnologias e Conceitos aplicados:
 
-- Alinhamento de divs usando CSS
-
-- Uso de id e class
-
+- Efeito Parallax
+- Favicon
+- Flexbox e Grid
 - Fontes locais personalizadas
-
-- Criação de cabeçalho
-
-- Aplicação de imagens de fundo em DIV
-
-- Efeito paralax em imagens de fundo
-
-- Pseudo-classes CSS 
-
+- IDs, Classes e Pseudo-classes
+- Imagens de fundo
 - Links internos e externos
-
 - Variáveis CSS (:root)
 
-- Responsividade com CSS
-
-- Uso de favicon
-
-- Uso de tags semânticas: strong, header, main, footer
 
 
-## Estrutura
-
-### O projeto é composto por:
+## Estrutura do projeto:
 
 - index.html (HTML: Estrutura do site)
-
 - style/style.css (CSS: Estilização)
-
 - font (Pasta de fontes)
-
 - images (Pasta de imagens)
 
 
-## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [CordelModerno](https://davidrichardhw.github.io/CordelModerno/) < Fique a vontade para deixar dicas e opiniões. 😁
+## Link do Site:
+
+Você pode acessar meu site no GitHub Pages clicando aqui > [CordelModerno](https://davidrichardhw.github.io/CordelModerno/) <
+
+Fique a vontade para deixar dicas e opiniões. 😁
